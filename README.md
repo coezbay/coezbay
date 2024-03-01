@@ -1,18 +1,27 @@
-<img align="top" alt="TheTree" src="TheTree.jpg">
+<img align="right" alt="TheTree" src="TheTree.jpg">
 
-Hi there 🖖
+# Hi there 🖖
 
-- 🔭 I’m currently working on my personal development
-- 🌱 I’m currently learning Java
-- 🤝 I’m looking to collaborate on AI / Software Testing / AR / VR / Security / Humanity
-- 💬 Ask me about 3D, AI and Realtime Gfx 
+- 🔭 I’m currently focusing on my personal development.
+- 🌱 I’m currently learning Java.
+- 🤝 I’m looking to collaborate on AI, Software Testing, AR, VR, Security, and projects benefiting humanity.
+- 💬 Ask me about 3D, AI, and Realtime Gfx.
 - 📫 How to reach me: COEXXIII
 
-![Snake animation](https://raw.githubusercontent.com/{coezbay}/{coezbay}/output/github-contribution-grid-snake-dark.svg)
+## 🌐 Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://de.linkedin.com/in/coezbay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/coezbay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/CagatayOe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+  <a href="https://de.linkedin.com/in/coezbay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Cagatay_Oezbay-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/coezbay/" target="_blank"><img src="https://img.shields.io/badge/Instagram-coezbay-purple?style=flat-square&logo=instagram" alt="Instagram"></a>
+  <a href="https://twitter.com/CagatayOe" target="_blank"><img src="https://img.shields.io/badge/Twitter-CagatayOe-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
 </p>
+
+## 🚀 My Interests
+
+- 💻 New technologies
+- 🎮 Computer Games
+- 🪴 Bonsai
+- 🛩️ Traveling
+- 🏀 Playing Basketball
+
+Thank you for visiting my GitHub profile! Feel free to look around!
