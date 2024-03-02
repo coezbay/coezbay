@@ -1,5 +1,3 @@
-<img alt="TheTree" src="TheTree.jpg">
-
 # Hi there 👋
 
 I'm a passionate developer and artist, always exploring new technologies. Let's connect and build something amazing together!
