@@ -38,6 +38,18 @@ I'm a passionate developer and artist, always exploring new technologies. Let's 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)
 
+### ⛓ Blockchain
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=flat-square&logo=bitcoin&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-00FFA3.svg?style=flat-square&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822.svg?style=flat-square&logo=web3.js&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134.svg?style=flat-square&logo=hyperledger&logoColor=white)
+
+### 🕹 Real-Time
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
+![CryEngine](https://img.shields.io/badge/CryEngine-000000.svg?style=flat-square&logo=cryengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white)
 
 ### 🖌 3D Modeling and Animation
 ![Autodesk 3ds Max](https://img.shields.io/badge/Autodesk_3ds_Max-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
@@ -54,11 +66,6 @@ I'm a passionate developer and artist, always exploring new technologies. Let's 
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24.svg?style=flat-square&logo=adobe-acrobat&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=flat-square&logo=gimp&logoColor=white)
-
-### 🕹 Real-Time
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
-![CryEngine](https://img.shields.io/badge/CryEngine-000000.svg?style=flat-square&logo=cryengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white)
 
 ### 🎞 Video
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
