@@ -6,7 +6,7 @@ I'm a passionate developer and artist, always exploring new technologies. Let's 
 - 🌱 Learning Java and Angular
 - 🤝 Looking to collaborate on AI, Software Testing, AR, VR, Security and projects benefiting humanity
 - 💬 Ask me about Software Development & Testing, 3D, 2D, AI and Realtime Gfx
-- 📫 How to reach me: COEXXIII
+- 📫 How to reach me: Please use one of my WebSites or Social-Media Channels
 
 ## 🛠️ Languages and Tools
 
