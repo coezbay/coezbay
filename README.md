@@ -3,7 +3,7 @@
 I'm a passionate developer and artist, always exploring new technologies. Let's connect and build something amazing together!
 
 - 🔭 Currently focusing on my personal development
-- 🌱 Learning Java and Angular
+- 🌱 Learning Java, Angular & MapStruct
 - 🤝 Looking to collaborate on AI, Software Testing, AR, VR, Security and projects benefiting humanity
 - 💬 Ask me about Software Development & Testing, 3D, 2D, AI and Realtime Gfx
 - 📫 How to reach me: Please use one of my WebSites or Social-Media Channels
