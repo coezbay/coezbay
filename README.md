@@ -96,6 +96,7 @@ For a detailed look into my professional endeavors, visit my [Company Website](h
 - 🎮 Computer Games
 - 🪴 Bonsai
 - 🛩️ Traveling
+- ⛳️ Playing Golf
 - 🏀 Playing Basketball
 
 Thank you for visiting my GitHub profile! Feel free to look around! 🖖
