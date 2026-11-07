@@ -1,102 +1,125 @@
-# Hi there 👋
 
-I'm a passionate developer and artist, always exploring new technologies. Let's connect and build something amazing together!
+<!-- GitHub profile README | github.com/coezbay -->
 
-- 🔭 Currently focusing on my personal development
-- 🌱 Learning Java, Angular & MapStruct
-- 🤝 Looking to collaborate on AI, Software Testing, AR, VR, Security and projects benefiting humanity
-- 💬 Ask me about Software Development & Testing, 3D, 2D, AI and Realtime Gfx
-- 📫 How to reach me: Please use one of my WebSites or Social-Media Channels
+<h1 align="center">COEZBAY</h1>
 
-## 🛠️ Languages and Tools
-
-### 💻 Languages 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-
-- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-
-### ☁️ Cloud Computing
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
-
-### 🤖 Artificial Intelligence (AI)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white)
-
-### ⛓ Blockchain
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=flat-square&logo=bitcoin&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-00FFA3.svg?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636.svg?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822.svg?style=flat-square&logo=web3.js&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134.svg?style=flat-square&logo=hyperledger&logoColor=white)
-
-### 🕹 Real-Time
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?style=flat-square&logo=unreal-engine&logoColor=white)
-![CryEngine](https://img.shields.io/badge/CryEngine-000000.svg?style=flat-square&logo=cryengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=white)
-
-### 🖌 3D Modeling and Animation
-![Autodesk 3ds Max](https://img.shields.io/badge/Autodesk_3ds_Max-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A.svg?style=flat-square&logo=maxon&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF5800.svg?style=flat-square&logo=adobe&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-549FDE.svg?style=flat-square&logo=pixologic&logoColor=white)
-
-### 🎨 2D
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-F76923.svg?style=flat-square&logo=adobe-indesign&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6.svg?style=flat-square&logo=adobe-xd&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24.svg?style=flat-square&logo=adobe-acrobat&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=flat-square&logo=gimp&logoColor=white)
-
-### 🎞 Video
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-9999FF.svg?style=flat-square&logo=davinci-resolve&logoColor=white)
-
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://de.linkedin.com/in/coezbay" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Cagatay_Oezbay-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/coezbay/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-coezbay-purple?style=flat-square&logo=instagram" alt="Instagram"></a>
-  <a href="https://twitter.com/CagatayOe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-CagatayOe-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
+<p align="center">
+  <strong>Engineering Intelligence. Creating experiences.</strong><br />
+  Software Quality · Artificial Intelligence · Creative Technology
 </p>
 
-## 📝 My Personal Website/Blog
+<div align="center">
+  <a href="https://cagatayoezbay.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=E9BB73" /></a>
+  <a href="https://coezbay.com"><img alt="COEZBAY" src="https://img.shields.io/badge/COEZBAY-Engineering-0D1B2A?style=for-the-badge&logoColor=E9BB73" /></a>
+  <a href="https://ceosbay.com"><img alt="Blog" src="https://img.shields.io/badge/Blog-Read%20the%20stories-0D1B2A?style=for-the-badge&logo=wordpress&logoColor=E9BB73" /></a>
+  <a href="https://www.linkedin.com/in/coezbay/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=E9BB73" /></a>
+</div>
 
-For a deeper dive into my personal portfolio, check out my [Personal WebSite](https://cagatayoezbay.com)
-or visit my [Personal Blog](https://ceosbay.com) for more insights into my projects and interests.
+<br />
 
-## 💼 My Professional Website
+## 👋 Hello, world. I'm Çağatay.
 
-For a detailed look into my professional endeavors, visit my [Company Website](https://coezbay.com).
+**Technical Test Consultant · Software Quality Enthusiast · Creative Technologist**
 
-## 🚀 My Interests
+I work at the intersection of **software engineering, quality, artificial intelligence and digital creativity**. With over two decades of experience in technical environments, I enjoy taking complex ideas from experimentation to dependable, meaningful experiences.
 
-- 💻 New technologies
-- 🎮 Computer Games
-- 🪴 Bonsai
-- 🛩️ Traveling
-- ⛳️ Playing Golf
-- 🏀 Playing Basketball
+For me, technology is not just about making things work. It's about making them **work well**, challenging assumptions, and exploring what's possible next.
 
-Thank you for visiting my GitHub profile! Feel free to look around! 🖖
+| 🔬 Engineering & Quality | 🤖 Artificial Intelligence | 🎮 Creative Technology |
+| :--- | :--- | :--- |
+| Test automation, software architecture, CI/CD and reliable delivery. | AI-assisted development, model evaluation, local AI and intelligent workflows. | Real-time graphics, 3D, AR/VR, interactive experiences and game development. |
+
+## 🚀 What I'm exploring
+
+- **Quality engineering at scale:** Playwright, Cucumber, Java, automated checks, and CI/CD workflows.
+- **Practical AI:** model evaluation, generative tools, locally hosted models, and AI in software testing.
+- **Creative coding:** 3D visualization, real-time rendering, immersive interfaces, and retro game experiments.
+- **Open knowledge:** building and sharing tools that make learning and experimentation more accessible.
+
+## ✨ Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/coezbay/TestPrepWeb">TestPrepWeb</a></h3>
+      <p>An open-source, browser-based quiz application for education and training, with configurable question sets and interactive feedback.</p>
+      <p><a href="https://github.com/coezbay/TestPrepWeb">Source code</a> · <a href="https://coezbay.github.io/TestPrepWeb/">Live demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/coezbay/JavaLeichtGemacht">JavaLeichtGemacht</a></h3>
+      <p>A German-language collection of Java fundamentals, exercises, and small projects, built to support learning by doing.</p>
+      <p><a href="https://github.com/coezbay/JavaLeichtGemacht">Explore the repository</a></p>
+    </td>
+  </tr>
+</table>
+
+> More experiments, visual work, and ideas live on my [personal website](https://cagatayoezbay.com). Not everything I build starts as a public repository.
+
+## 🛠️ My toolbox
+
+**Languages & application development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![MapStruct](https://img.shields.io/badge/MapStruct-485A65?style=flat-square)
+
+**Testing, quality & delivery**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=black)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate_Testing-333333?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqubeserver&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**AI, graphics & creative tools**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-365C94?style=flat-square)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+
+<details>
+<summary><b>🧰 More technologies I've worked with or explored</b></summary>
+<br />
+
+- **Languages & frameworks:** C#, PHP, Swift, React, SQL, JavaScript ecosystems.
+- **Cloud & infrastructure:** Microsoft Azure, AWS, Google Cloud, Git and container platforms.
+- **Creative software:** Autodesk 3ds Max, Maya, Cinema 4D, ZBrush, Substance Painter, GIMP, Photoshop, Illustrator, InDesign, After Effects and Premiere Pro.
+- **Other areas of interest:** Blockchain, Web3, application security, mixed reality and visualization.
+
+*This is a broader experience and interest map, not a claim that every tool is part of my daily stack.*
+</details>
+
+## 🌍 Beyond the screen
+
+I'm curious about far more than code: **golf ⛳, basketball 🏀, gaming 🎮, bonsai 🌱, travel ✈️ and the occasional creative rabbit hole.** Some of my best ideas start away from a keyboard.
+
+## 🤝 Let's connect
+
+I'm interested in meaningful collaborations around **open source, software quality, responsible AI, immersive technology and projects that make a positive difference**.
+
+[**Personal portfolio**](https://cagatayoezbay.com) · [**COEZBAY**](https://coezbay.com) · [**Blog**](https://ceosbay.com) · [**LinkedIn**](https://www.linkedin.com/in/coezbay/) · [**Instagram**](https://www.instagram.com/coezbay/) · [**X**](https://twitter.com/CagatayOe)
+
+---
+
+<div align="center">
+  <sub><strong>Curiosity creates possibility. Engineering makes it real.</strong></sub>
+  <br />
+  <sub>Thanks for stopping by. 🖖</sub>
+</div>
