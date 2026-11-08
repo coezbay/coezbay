@@ -33,7 +33,7 @@ For me, technology is not just about making things work. It's about making them 
 
 - **Quality engineering at scale:** Playwright, Cucumber, Java, automated checks, and CI/CD workflows.
 - **Practical AI:** model evaluation, generative tools, locally hosted models, and AI in software testing.
-- **Creative coding:** 3D visualization, real-time rendering, immersive interfaces, and retro game experiments.
+- **Creative coding:** 3D visualization, real-time rendering, immersive interfaces and retro game experiments.
 - **Open knowledge:** building and sharing tools that make learning and experimentation more accessible.
 
 ## ✨ Featured projects
